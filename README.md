@@ -1,7 +1,7 @@
 # Netflix_Clone
 This is the first project that I did back in 2021, my first HTML and CSS project.
 It was my final project from [Pirple](https://www.pirple.com)
-Check oout their webpage to learn;
+Check out their webpage to learn;
 * HTML 
 * CSS 
 * JS 
